@@ -1,0 +1,162 @@
+* {
+  background-color: #C0C0C0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background: #ffffff;
+  
+  }
+  
+  .homecenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 500px;
+    padding-top: 14px;
+
+  }
+  
+  .a1-container{
+    width: 250px;
+    height: 200px;
+    float: left;
+    background: #ffffff;
+    margin:10px;
+    padding: 30px 20px;
+    border-radius: 6px;
+ }
+ .button1{
+  width: 250px;
+  border-radius: 10px;
+  margin-left: 25px;
+  background: ;
+  float: left;
+  overflow: hidden;
+  
+ }
+ .button1 p a{
+  background: #000000;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  display: block;
+
+ }
+.button2{
+ width: 250px;
+ border-radius: 10px;
+ margin-left: 65px;
+ background: ;
+ float: left;
+ overflow: hidden;
+ 
+}
+.button2 p a{
+ background: #000000;
+ text-align: center;
+ color: white;
+ text-decoration: none;
+ display: block;
+
+}
+.button3{
+  width: 250px;
+  border-radius: 10px;
+  margin-left: 60px;
+  background: ;
+  float: left;
+  overflow: hidden;
+  
+ }
+ .button3 p a{
+  background: #000000;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  display: block;
+ 
+ }
+ .button4{
+  width: 250px;
+  border-radius: 10px;
+  margin-left: 55px;
+  background: ;
+  float: left;
+  overflow: hidden;
+  
+ }
+ .button4 p a{
+  background: #000000;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  display: block;
+ 
+ }
+.a1-container p{
+  background: #ffffff;
+}
+ .a2-container{
+  width: 250px;
+  height: 200px;
+  float: left;
+  background: #ffffff;
+  margin:10px;
+  padding: 30px 20px;
+  border-radius: 6px;
+}
+.a2-container p{
+  background: #ffffff;
+}
+
+.a3-container{
+  width: 250px;
+  height: 200px;
+  float: left;
+  background: #ffffff;
+  margin:10px;
+  padding: 30px 20px;
+  border-radius: 6px;
+}
+.a3-container p{
+  background: #ffffff;
+}
+.a4-container{
+  width: 250px;
+  height: 200px;
+  float: left;
+  background: #ffffff;
+  margin:10px;
+  padding: 30px 20px;
+  border-radius: 6px;
+}
+.a4-container p{
+  background: #ffffff;
+}
+.footer{
+  font-size: 15px;
+  background-color: #ffffff;
+  color: black;
+  clear: both;
+  padding: 5px;
+}
+.footer p{
+  background-color: #ffffff;
+}

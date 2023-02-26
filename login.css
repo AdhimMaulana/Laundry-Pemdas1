@@ -1,0 +1,77 @@
+body{
+    font-family: sans-serif;
+    background-color: #ffffff;
+}
+
+.logo{
+    width: 250px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+
+#container{
+   width: 300px;
+   height: 160px;
+   min-height: 150px;
+   background: #C0C0C0;
+   margin:50px auto;
+   padding: 30px 20px;
+   border-radius: 6px;
+   margin-bottom: 100px;
+}
+.login-text{
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+}
+input[type=text],
+input[type=password]{
+   font-size: 15px;
+   width: 100%;
+   padding: 12px 20px;
+   margin: 8px 0;
+   box-sizing: border-box;
+   border: 2px solid ;
+   -webkit-transition: 0.5s;
+   transition: 0.5s;
+   outline: none;
+   background-size: 30px;
+   background-position: 5px 5px;
+   background-repeat: no-repeat;
+   padding-left: 40px;
+   border-radius: 5px;
+   background-color: #fafffe;
+}
+input[type=text]{
+}
+input[type=password]{
+}
+       
+input[type=text]:focus,
+input[type=password]:focus {
+   border: 2px solid ;
+}
+
+input[type=submit],
+input[type=register]{
+   font-size: 15px;
+   color: black;
+   border: white 2px;
+   border-radius: 10px;
+   padding: 12px 12px;
+   cursor:pointer;
+    margin-bottom: 100px;
+    width: 55px;
+
+}
+
+input[type=submit]:hover,
+input[type=register]:hover{
+   opacity:0.9;
+
+}
+input[type=submit],
+input[type=register]{
+   background:  #ffffff;
+}
